@@ -1,13 +1,15 @@
-<h1>Folder Updater v1.0</h1>
-<p>a lightweight tool to sync your folders by a recursive algorithm.</p>
-<h1>Getting Started</h1>
-<code>
-	git clone https://github.com/sirAlireza/Folder-Updater.git
-	<br>
-	sudo apt-get install python3-tk
-</code>
-<h1>Installing</h1>
+## Folder Updater v1.0
+a lightweight tool to sync your folders by a recursive algorithm.
+## Getting Started
+```
+git clone https://github.com/sirAlireza/Folder-Updater.git
+sudo apt-get install python3-tk
+```
+## Installing
 to run this app do this in terminal:<br>
-<code>
-	python3 Fu\ Tkinter.py
-</code>
+```
+python3 Fu\ Tkinter.py
+```
+## TODO
+* solve the freezing problem while copying
+* create a better cansel flag.
