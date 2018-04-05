@@ -3,10 +3,11 @@
 <h1>Getting Started</h1>
 <code>
 	git clone https://github.com/sirAlireza/Folder-Updater.git
+	<br>
 	sudo apt-get install python3-tk
 </code>
 <h1>Installing</h1>
-to run this app do this in terminal:
+to run this app do this in terminal:<br>
 <code>
 	python3 Fu\ Tkinter.py
 </code>
